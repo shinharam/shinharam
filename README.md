@@ -1,4 +1,5 @@
-## Hi there 👋
+## ![image](https://github.com/user-attachments/assets/54f47ad9-29dd-4ab2-9c3b-a046c49555dd)SK쉴더스 루키즈 과정 진행중
+
 
 <!--
 **shinharam/shinharam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
